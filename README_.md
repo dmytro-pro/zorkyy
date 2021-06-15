@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zorkyy&show_icons=true&theme=dark&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zorkyy&theme=dark&langs_count=10&hide=shell,html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Redux Composite](https://github-readme-stats.vercel.app/api/pin/?username=blackakula&repo=redux-composite&show_owner=true)](https://github.com/pdffiller/airslate-oauth)
